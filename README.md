@@ -7,7 +7,7 @@
 
 <img align="right" src="http://surl.li/lkdwf" height="100" alt="Redux"> 
 
-- [Docs](https://expressjs.com/)
+- [offcial Docs](https://expressjs.com/)
 
 <br>
 
@@ -15,6 +15,6 @@
 
 <img align="right" src="http://surl.li/lkdwn" height="100" alt="Redux"> 
 
-- [Docs](https://www.mongodb.com/docs/)
+- [offcial Docs](https://www.mongodb.com/docs/)
 
 <br>
