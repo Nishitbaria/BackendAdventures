@@ -7,8 +7,8 @@
 
 <img align="right" src="http://surl.li/lkdwf" height="100" alt="Redux"> 
 
-- [offcial Docs](https://expressjs.com/)
-- [My Notes](documentation/Express)
+- [Offcial Docs](https://expressjs.com/)
+- [My Notes](documentation/Express/Expressjs.md)
 
 <br>
 
@@ -16,6 +16,7 @@
 
 <img align="right" src="http://surl.li/lkdwn" height="100" alt="Redux"> 
 
-- [offcial Docs](documentation/MongoDb/)
+- [Offcial Docs](https://www.mongodb.com/docs/guides/)
+- [My Notes](documentation/MongoDb/MongoDb.md)
 
 <br>
